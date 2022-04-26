@@ -1,3 +1,5 @@
+❗this library is no longer supported. For future references try to use the [original repo](https://github.com/devnied/EMV-NFC-Paycard-Enrollment) I forked from.
+
 # Credit Card NFC Reader
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Credit--Card--NFC--Reader-green.svg?style=true)](https://android-arsenal.com/details/1/3501)
 
