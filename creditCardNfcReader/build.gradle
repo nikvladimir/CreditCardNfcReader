@@ -52,7 +52,7 @@ publishing {
                 from components.release
             }
 
-            groupId = 'com.nikvladimir'
+            groupId = 'com.github.nikvladimir.CreditCardNfcReader'
             artifactId = 'creditCardNfcReader'
             version = '1.1.1'
 
